@@ -1,0 +1,1729 @@
+card_company,trans_freq,persons,amount,age,education,class
+Visa,vhigh,1,High,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,1,High,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,1,High,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,1,High,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,1,High,seniors,metric,It seems to be very dangerous
+Visa,vhigh,1,High,seniors,grad,It seems to be very dangerous
+Visa,vhigh,1,High,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,1,High,adults,metric,It seems to be very dangerous
+Visa,vhigh,1,High,adults,grad,It seems to be very dangerous
+Visa,vhigh,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,1,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,1,Moderate,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,1,Moderate,seniors,metric,It seems to be very dangerous
+Visa,vhigh,1,Moderate,seniors,grad,It seems to be very dangerous
+Visa,vhigh,1,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,1,Moderate,adults,metric,It seems to be very dangerous
+Visa,vhigh,1,Moderate,adults,grad,It seems to be very dangerous
+Visa,vhigh,1,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,1,Less,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,1,Less,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,1,Less,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,1,Less,seniors,metric,It seems to be very dangerous
+Visa,vhigh,1,Less,seniors,grad,It seems to be very dangerous
+Visa,vhigh,1,Less,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,1,Less,adults,metric,It seems to be very dangerous
+Visa,vhigh,1,Less,adults,grad,It seems to be very dangerous
+Visa,vhigh,2,High,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,2,High,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,2,High,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,2,High,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,2,High,seniors,metric,It seems to be very dangerous
+Visa,vhigh,2,High,seniors,grad,It seems to be very dangerous
+Visa,vhigh,2,High,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,2,High,adults,metric,It seems to be very dangerous
+Visa,vhigh,2,High,adults,grad,It seems to be very dangerous
+Visa,vhigh,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,2,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,2,Moderate,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,2,Moderate,seniors,metric,It seems to be very dangerous
+Visa,vhigh,2,Moderate,seniors,grad,It seems to be very dangerous
+Visa,vhigh,2,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,2,Moderate,adults,metric,It seems to be very dangerous
+Visa,vhigh,2,Moderate,adults,grad,It seems to be very dangerous
+Visa,vhigh,2,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,2,Less,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,2,Less,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,2,Less,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,2,Less,seniors,metric,It seems to be very dangerous
+Visa,vhigh,2,Less,seniors,grad,It seems to be very dangerous
+Visa,vhigh,2,Less,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,2,Less,adults,metric,It seems to be very dangerous
+Visa,vhigh,2,Less,adults,grad,It seems to be very dangerous
+Visa,vhigh,3,High,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,3,High,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,3,High,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,3,High,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,3,High,seniors,metric,It seems to be very dangerous
+Visa,vhigh,3,High,seniors,grad,It seems to be very dangerous
+Visa,vhigh,3,High,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,3,High,adults,metric,It seems to be very dangerous
+Visa,vhigh,3,High,adults,grad,It seems to be very dangerous
+Visa,vhigh,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,3,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,3,Moderate,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,3,Moderate,seniors,metric,It seems to be very dangerous
+Visa,vhigh,3,Moderate,seniors,grad,It seems to be very dangerous
+Visa,vhigh,3,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,3,Moderate,adults,metric,It seems to be very dangerous
+Visa,vhigh,3,Moderate,adults,grad,It seems to be very dangerous
+Visa,vhigh,3,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,3,Less,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,3,Less,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,3,Less,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,3,Less,seniors,metric,It seems to be very dangerous
+Visa,vhigh,3,Less,seniors,grad,It seems to be very dangerous
+Visa,vhigh,3,Less,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,3,Less,adults,metric,It seems to be very dangerous
+Visa,vhigh,3,Less,adults,grad,It seems to be very dangerous
+Visa,vhigh,3more,High,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,3more,High,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,3more,High,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,3more,High,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,3more,High,seniors,metric,It seems to be very dangerous
+Visa,vhigh,3more,High,seniors,grad,It seems to be very dangerous
+Visa,vhigh,3more,High,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,3more,High,adults,metric,It seems to be very dangerous
+Visa,vhigh,3more,High,adults,grad,It seems to be very dangerous
+Visa,vhigh,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,3more,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,3more,Moderate,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,3more,Moderate,seniors,metric,It seems to be very dangerous
+Visa,vhigh,3more,Moderate,seniors,grad,It seems to be very dangerous
+Visa,vhigh,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,3more,Moderate,adults,metric,It seems to be very dangerous
+Visa,vhigh,3more,Moderate,adults,grad,It seems to be very dangerous
+Visa,vhigh,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,vhigh,3more,Less,Youngs,metric,It seems to be very dangerous
+Visa,vhigh,3more,Less,Youngs,grad,It seems to be very dangerous
+Visa,vhigh,3more,Less,seniors,illiterate,It seems to be very dangerous
+Visa,vhigh,3more,Less,seniors,metric,It seems to be very dangerous
+Visa,vhigh,3more,Less,seniors,grad,It seems to be very dangerous
+Visa,vhigh,3more,Less,adults,illiterate,It seems to be very dangerous
+Visa,vhigh,3more,Less,adults,metric,It seems to be very dangerous
+Visa,vhigh,3more,Less,adults,grad,It seems to be very dangerous
+Visa,high,1,High,Youngs,illiterate,It seems to be very dangerous
+Visa,high,1,High,Youngs,metric,It seems to be very dangerous
+Visa,high,1,High,Youngs,grad,It seems to be very dangerous
+Visa,high,1,High,seniors,illiterate,It seems to be very dangerous
+Visa,high,1,High,seniors,metric,It seems to be very dangerous
+Visa,high,1,High,seniors,grad,It seems to be very dangerous
+Visa,high,1,High,adults,illiterate,It seems to be very dangerous
+Visa,high,1,High,adults,metric,It seems to be very dangerous
+Visa,high,1,High,adults,grad,It seems to be very dangerous
+Visa,high,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,high,1,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,high,1,Moderate,Youngs,grad,It seems to be very dangerous
+Visa,high,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,high,1,Moderate,seniors,metric,It seems to be very dangerous
+Visa,high,1,Moderate,seniors,grad,It seems to be very dangerous
+Visa,high,1,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,high,1,Moderate,adults,metric,It seems to be very dangerous
+Visa,high,1,Moderate,adults,grad,It seems to be very dangerous
+Visa,high,1,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,high,1,Less,Youngs,metric,It seems to be very dangerous
+Visa,high,1,Less,Youngs,grad,It seems to be very dangerous
+Visa,high,1,Less,seniors,illiterate,It seems to be very dangerous
+Visa,high,1,Less,seniors,metric,It seems to be very dangerous
+Visa,high,1,Less,seniors,grad,It seems to be very dangerous
+Visa,high,1,Less,adults,illiterate,It seems to be very dangerous
+Visa,high,1,Less,adults,metric,It seems to be very dangerous
+Visa,high,1,Less,adults,grad,It seems to be very dangerous
+Visa,high,2,High,Youngs,illiterate,It seems to be very dangerous
+Visa,high,2,High,Youngs,metric,It seems to be very dangerous
+Visa,high,2,High,Youngs,grad,It seems to be very dangerous
+Visa,high,2,High,seniors,illiterate,It seems to be very dangerous
+Visa,high,2,High,seniors,metric,It seems to be very dangerous
+Visa,high,2,High,seniors,grad,It seems to be very dangerous
+Visa,high,2,High,adults,illiterate,It seems to be very dangerous
+Visa,high,2,High,adults,metric,It seems to be very dangerous
+Visa,high,2,High,adults,grad,It seems to be very dangerous
+Visa,high,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,high,2,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,high,2,Moderate,Youngs,grad,It seems to be very dangerous
+Visa,high,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,high,2,Moderate,seniors,metric,It seems to be very dangerous
+Visa,high,2,Moderate,seniors,grad,It seems to be very dangerous
+Visa,high,2,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,high,2,Moderate,adults,metric,It seems to be very dangerous
+Visa,high,2,Moderate,adults,grad,It seems to be very dangerous
+Visa,high,2,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,high,2,Less,Youngs,metric,It seems to be very dangerous
+Visa,high,2,Less,Youngs,grad,It seems to be very dangerous
+Visa,high,2,Less,seniors,illiterate,It seems to be very dangerous
+Visa,high,2,Less,seniors,metric,It seems to be very dangerous
+Visa,high,2,Less,seniors,grad,It seems to be very dangerous
+Visa,high,2,Less,adults,illiterate,It seems to be very dangerous
+Visa,high,2,Less,adults,metric,It seems to be very dangerous
+Visa,high,2,Less,adults,grad,It seems to be very dangerous
+Visa,high,3,High,Youngs,illiterate,It seems to be very dangerous
+Visa,high,3,High,Youngs,metric,It seems to be very dangerous
+Visa,high,3,High,Youngs,grad,It seems to be very dangerous
+Visa,high,3,High,seniors,illiterate,It seems to be very dangerous
+Visa,high,3,High,seniors,metric,It seems to be very dangerous
+Visa,high,3,High,seniors,grad,It seems to be very dangerous
+Visa,high,3,High,adults,illiterate,It seems to be very dangerous
+Visa,high,3,High,adults,metric,It seems to be very dangerous
+Visa,high,3,High,adults,grad,It seems to be very dangerous
+Visa,high,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,high,3,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,high,3,Moderate,Youngs,grad,It seems to be very dangerous
+Visa,high,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,high,3,Moderate,seniors,metric,It seems to be very dangerous
+Visa,high,3,Moderate,seniors,grad,It seems to be very dangerous
+Visa,high,3,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,high,3,Moderate,adults,metric,It seems to be very dangerous
+Visa,high,3,Moderate,adults,grad,It seems to be very dangerous
+Visa,high,3,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,high,3,Less,Youngs,metric,It seems to be very dangerous
+Visa,high,3,Less,Youngs,grad,It seems to be very dangerous
+Visa,high,3,Less,seniors,illiterate,It seems to be very dangerous
+Visa,high,3,Less,seniors,metric,It seems to be very dangerous
+Visa,high,3,Less,seniors,grad,It seems to be very dangerous
+Visa,high,3,Less,adults,illiterate,It seems to be very dangerous
+Visa,high,3,Less,adults,metric,It seems to be very dangerous
+Visa,high,3,Less,adults,grad,It seems to be very dangerous
+Visa,high,3more,High,Youngs,illiterate,It seems to be very dangerous
+Visa,high,3more,High,Youngs,metric,It seems to be very dangerous
+Visa,high,3more,High,Youngs,grad,It seems to be very dangerous
+Visa,high,3more,High,seniors,illiterate,It seems to be very dangerous
+Visa,high,3more,High,seniors,metric,It seems to be very dangerous
+Visa,high,3more,High,seniors,grad,It seems to be very dangerous
+Visa,high,3more,High,adults,illiterate,It seems to be very dangerous
+Visa,high,3more,High,adults,metric,It seems to be very dangerous
+Visa,high,3more,High,adults,grad,It seems to be very dangerous
+Visa,high,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,high,3more,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,high,3more,Moderate,Youngs,grad,It seems to be very dangerous
+Visa,high,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,high,3more,Moderate,seniors,metric,It seems to be very dangerous
+Visa,high,3more,Moderate,seniors,grad,It seems to be very dangerous
+Visa,high,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,high,3more,Moderate,adults,metric,It seems to be very dangerous
+Visa,high,3more,Moderate,adults,grad,It seems to be very dangerous
+Visa,high,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,high,3more,Less,Youngs,metric,It seems to be very dangerous
+Visa,high,3more,Less,Youngs,grad,It seems to be very dangerous
+Visa,high,3more,Less,seniors,illiterate,It seems to be very dangerous
+Visa,high,3more,Less,seniors,metric,It seems to be very dangerous
+Visa,high,3more,Less,seniors,grad,It seems to be very dangerous
+Visa,high,3more,Less,adults,illiterate,It seems to be very dangerous
+Visa,high,3more,Less,adults,metric,It seems to be very dangerous
+Visa,high,3more,Less,adults,grad,It seems to be very dangerous
+Visa,med,1,High,Youngs,illiterate,It seems to be very dangerous
+Visa,med,1,High,Youngs,metric,It seems to be very dangerous
+Visa,med,1,High,Youngs,grad,It seems to be very dangerous
+Visa,med,1,High,seniors,illiterate,It seems to be very dangerous
+Visa,med,1,High,seniors,metric,It seems to be very dangerous
+Visa,med,1,High,seniors,grad,It seems to be very dangerous
+Visa,med,1,High,adults,illiterate,It seems to be very dangerous
+Visa,med,1,High,adults,metric,It seems to be very dangerous
+Visa,med,1,High,adults,grad,It seems to be very dangerous
+Visa,med,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,med,1,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,med,1,Moderate,Youngs,grad,it is not safe
+Visa,med,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,med,1,Moderate,seniors,metric,It seems to be very dangerous
+Visa,med,1,Moderate,seniors,grad,it is not safe
+Visa,med,1,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,med,1,Moderate,adults,metric,it is not safe
+Visa,med,1,Moderate,adults,grad,it is not safe
+Visa,med,1,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,med,1,Less,Youngs,metric,It seems to be very dangerous
+Visa,med,1,Less,Youngs,grad,It seems to be very dangerous
+Visa,med,1,Less,seniors,illiterate,It seems to be very dangerous
+Visa,med,1,Less,seniors,metric,It seems to be very dangerous
+Visa,med,1,Less,seniors,grad,it is not safe
+Visa,med,1,Less,adults,illiterate,It seems to be very dangerous
+Visa,med,1,Less,adults,metric,it is not safe
+Visa,med,1,Less,adults,grad,it is not safe
+Visa,med,2,High,Youngs,illiterate,It seems to be very dangerous
+Visa,med,2,High,Youngs,metric,It seems to be very dangerous
+Visa,med,2,High,Youngs,grad,It seems to be very dangerous
+Visa,med,2,High,seniors,illiterate,It seems to be very dangerous
+Visa,med,2,High,seniors,metric,It seems to be very dangerous
+Visa,med,2,High,seniors,grad,It seems to be very dangerous
+Visa,med,2,High,adults,illiterate,It seems to be very dangerous
+Visa,med,2,High,adults,metric,It seems to be very dangerous
+Visa,med,2,High,adults,grad,It seems to be very dangerous
+Visa,med,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,med,2,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,med,2,Moderate,Youngs,grad,it is not safe
+Visa,med,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,med,2,Moderate,seniors,metric,It seems to be very dangerous
+Visa,med,2,Moderate,seniors,grad,it is not safe
+Visa,med,2,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,med,2,Moderate,adults,metric,it is not safe
+Visa,med,2,Moderate,adults,grad,it is not safe
+Visa,med,2,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,med,2,Less,Youngs,metric,It seems to be very dangerous
+Visa,med,2,Less,Youngs,grad,it is not safe
+Visa,med,2,Less,seniors,illiterate,It seems to be very dangerous
+Visa,med,2,Less,seniors,metric,it is not safe
+Visa,med,2,Less,seniors,grad,it is not safe
+Visa,med,2,Less,adults,illiterate,It seems to be very dangerous
+Visa,med,2,Less,adults,metric,it is not safe
+Visa,med,2,Less,adults,grad,it is not safe
+Visa,med,3,High,Youngs,illiterate,It seems to be very dangerous
+Visa,med,3,High,Youngs,metric,It seems to be very dangerous
+Visa,med,3,High,Youngs,grad,It seems to be very dangerous
+Visa,med,3,High,seniors,illiterate,It seems to be very dangerous
+Visa,med,3,High,seniors,metric,It seems to be very dangerous
+Visa,med,3,High,seniors,grad,It seems to be very dangerous
+Visa,med,3,High,adults,illiterate,It seems to be very dangerous
+Visa,med,3,High,adults,metric,It seems to be very dangerous
+Visa,med,3,High,adults,grad,It seems to be very dangerous
+Visa,med,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,med,3,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,med,3,Moderate,Youngs,grad,it is not safe
+Visa,med,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,med,3,Moderate,seniors,metric,it is not safe
+Visa,med,3,Moderate,seniors,grad,it is not safe
+Visa,med,3,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,med,3,Moderate,adults,metric,it is not safe
+Visa,med,3,Moderate,adults,grad,it is not safe
+Visa,med,3,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,med,3,Less,Youngs,metric,It seems to be very dangerous
+Visa,med,3,Less,Youngs,grad,it is not safe
+Visa,med,3,Less,seniors,illiterate,It seems to be very dangerous
+Visa,med,3,Less,seniors,metric,it is not safe
+Visa,med,3,Less,seniors,grad,it is not safe
+Visa,med,3,Less,adults,illiterate,It seems to be very dangerous
+Visa,med,3,Less,adults,metric,it is not safe
+Visa,med,3,Less,adults,grad,it is not safe
+Visa,med,3more,High,Youngs,illiterate,It seems to be very dangerous
+Visa,med,3more,High,Youngs,metric,It seems to be very dangerous
+Visa,med,3more,High,Youngs,grad,It seems to be very dangerous
+Visa,med,3more,High,seniors,illiterate,It seems to be very dangerous
+Visa,med,3more,High,seniors,metric,It seems to be very dangerous
+Visa,med,3more,High,seniors,grad,It seems to be very dangerous
+Visa,med,3more,High,adults,illiterate,It seems to be very dangerous
+Visa,med,3more,High,adults,metric,It seems to be very dangerous
+Visa,med,3more,High,adults,grad,It seems to be very dangerous
+Visa,med,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,med,3more,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,med,3more,Moderate,Youngs,grad,it is not safe
+Visa,med,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,med,3more,Moderate,seniors,metric,it is not safe
+Visa,med,3more,Moderate,seniors,grad,it is not safe
+Visa,med,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,med,3more,Moderate,adults,metric,it is not safe
+Visa,med,3more,Moderate,adults,grad,it is not safe
+Visa,med,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,med,3more,Less,Youngs,metric,It seems to be very dangerous
+Visa,med,3more,Less,Youngs,grad,it is not safe
+Visa,med,3more,Less,seniors,illiterate,It seems to be very dangerous
+Visa,med,3more,Less,seniors,metric,it is not safe
+Visa,med,3more,Less,seniors,grad,it is not safe
+Visa,med,3more,Less,adults,illiterate,It seems to be very dangerous
+Visa,med,3more,Less,adults,metric,it is not safe
+Visa,med,3more,Less,adults,grad,it is not safe
+Visa,low,1,High,Youngs,illiterate,It seems to be very dangerous
+Visa,low,1,High,Youngs,metric,It seems to be very dangerous
+Visa,low,1,High,Youngs,grad,It seems to be very dangerous
+Visa,low,1,High,seniors,illiterate,It seems to be very dangerous
+Visa,low,1,High,seniors,metric,It seems to be very dangerous
+Visa,low,1,High,seniors,grad,It seems to be very dangerous
+Visa,low,1,High,adults,illiterate,It seems to be very dangerous
+Visa,low,1,High,adults,metric,It seems to be very dangerous
+Visa,low,1,High,adults,grad,It seems to be very dangerous
+Visa,low,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,low,1,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,low,1,Moderate,Youngs,grad,it is not safe
+Visa,low,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,low,1,Moderate,seniors,metric,It seems to be very dangerous
+Visa,low,1,Moderate,seniors,grad,it is not safe
+Visa,low,1,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,low,1,Moderate,adults,metric,it is not safe
+Visa,low,1,Moderate,adults,grad,it is not safe
+Visa,low,1,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,low,1,Less,Youngs,metric,It seems to be very dangerous
+Visa,low,1,Less,Youngs,grad,It seems to be very dangerous
+Visa,low,1,Less,seniors,illiterate,It seems to be very dangerous
+Visa,low,1,Less,seniors,metric,It seems to be very dangerous
+Visa,low,1,Less,seniors,grad,it is not safe
+Visa,low,1,Less,adults,illiterate,It seems to be very dangerous
+Visa,low,1,Less,adults,metric,it is not safe
+Visa,low,1,Less,adults,grad,it is not safe
+Visa,low,2,High,Youngs,illiterate,It seems to be very dangerous
+Visa,low,2,High,Youngs,metric,It seems to be very dangerous
+Visa,low,2,High,Youngs,grad,It seems to be very dangerous
+Visa,low,2,High,seniors,illiterate,It seems to be very dangerous
+Visa,low,2,High,seniors,metric,It seems to be very dangerous
+Visa,low,2,High,seniors,grad,It seems to be very dangerous
+Visa,low,2,High,adults,illiterate,It seems to be very dangerous
+Visa,low,2,High,adults,metric,It seems to be very dangerous
+Visa,low,2,High,adults,grad,It seems to be very dangerous
+Visa,low,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,low,2,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,low,2,Moderate,Youngs,grad,it is not safe
+Visa,low,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,low,2,Moderate,seniors,metric,It seems to be very dangerous
+Visa,low,2,Moderate,seniors,grad,it is not safe
+Visa,low,2,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,low,2,Moderate,adults,metric,it is not safe
+Visa,low,2,Moderate,adults,grad,it is not safe
+Visa,low,2,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,low,2,Less,Youngs,metric,It seems to be very dangerous
+Visa,low,2,Less,Youngs,grad,it is not safe
+Visa,low,2,Less,seniors,illiterate,It seems to be very dangerous
+Visa,low,2,Less,seniors,metric,it is not safe
+Visa,low,2,Less,seniors,grad,it is not safe
+Visa,low,2,Less,adults,illiterate,It seems to be very dangerous
+Visa,low,2,Less,adults,metric,it is not safe
+Visa,low,2,Less,adults,grad,it is not safe
+Visa,low,3,High,Youngs,illiterate,It seems to be very dangerous
+Visa,low,3,High,Youngs,metric,It seems to be very dangerous
+Visa,low,3,High,Youngs,grad,It seems to be very dangerous
+Visa,low,3,High,seniors,illiterate,It seems to be very dangerous
+Visa,low,3,High,seniors,metric,It seems to be very dangerous
+Visa,low,3,High,seniors,grad,It seems to be very dangerous
+Visa,low,3,High,adults,illiterate,It seems to be very dangerous
+Visa,low,3,High,adults,metric,It seems to be very dangerous
+Visa,low,3,High,adults,grad,It seems to be very dangerous
+Visa,low,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,low,3,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,low,3,Moderate,Youngs,grad,it is not safe
+Visa,low,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,low,3,Moderate,seniors,metric,it is not safe
+Visa,low,3,Moderate,seniors,grad,it is not safe
+Visa,low,3,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,low,3,Moderate,adults,metric,it is not safe
+Visa,low,3,Moderate,adults,grad,it is not safe
+Visa,low,3,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,low,3,Less,Youngs,metric,It seems to be very dangerous
+Visa,low,3,Less,Youngs,grad,it is not safe
+Visa,low,3,Less,seniors,illiterate,It seems to be very dangerous
+Visa,low,3,Less,seniors,metric,it is not safe
+Visa,low,3,Less,seniors,grad,it is not safe
+Visa,low,3,Less,adults,illiterate,It seems to be very dangerous
+Visa,low,3,Less,adults,metric,it is not safe
+Visa,low,3,Less,adults,grad,it is not safe
+Visa,low,3more,High,Youngs,illiterate,It seems to be very dangerous
+Visa,low,3more,High,Youngs,metric,It seems to be very dangerous
+Visa,low,3more,High,Youngs,grad,It seems to be very dangerous
+Visa,low,3more,High,seniors,illiterate,It seems to be very dangerous
+Visa,low,3more,High,seniors,metric,It seems to be very dangerous
+Visa,low,3more,High,seniors,grad,It seems to be very dangerous
+Visa,low,3more,High,adults,illiterate,It seems to be very dangerous
+Visa,low,3more,High,adults,metric,It seems to be very dangerous
+Visa,low,3more,High,adults,grad,It seems to be very dangerous
+Visa,low,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Visa,low,3more,Moderate,Youngs,metric,It seems to be very dangerous
+Visa,low,3more,Moderate,Youngs,grad,it is not safe
+Visa,low,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Visa,low,3more,Moderate,seniors,metric,it is not safe
+Visa,low,3more,Moderate,seniors,grad,it is not safe
+Visa,low,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Visa,low,3more,Moderate,adults,metric,it is not safe
+Visa,low,3more,Moderate,adults,grad,it is not safe
+Visa,low,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Visa,low,3more,Less,Youngs,metric,It seems to be very dangerous
+Visa,low,3more,Less,Youngs,grad,it is not safe
+Visa,low,3more,Less,seniors,illiterate,It seems to be very dangerous
+Visa,low,3more,Less,seniors,metric,it is not safe
+Visa,low,3more,Less,seniors,grad,it is not safe
+Visa,low,3more,Less,adults,illiterate,It seems to be very dangerous
+Visa,low,3more,Less,adults,metric,it is not safe
+Visa,low,3more,Less,adults,grad,it is not safe
+Mastercard,vhigh,1,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,1,High,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,1,High,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,1,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,1,High,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,1,High,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,1,High,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,1,High,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,1,High,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,1,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,1,Moderate,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,1,Moderate,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,1,Moderate,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,1,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,1,Moderate,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,1,Moderate,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,1,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,1,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,1,Less,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,1,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,1,Less,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,1,Less,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,1,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,1,Less,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,1,Less,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,2,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,2,High,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,2,High,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,2,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,2,High,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,2,High,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,2,High,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,2,High,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,2,High,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,2,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,2,Moderate,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,2,Moderate,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,2,Moderate,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,2,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,2,Moderate,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,2,Moderate,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,2,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,2,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,2,Less,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,2,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,2,Less,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,2,Less,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,2,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,2,Less,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,2,Less,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,3,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3,High,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,3,High,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,3,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3,High,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,3,High,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,3,High,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3,High,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,3,High,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,3,Moderate,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3,Moderate,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,3,Moderate,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,3,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3,Moderate,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,3,Moderate,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,3,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,3,Less,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,3,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3,Less,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,3,Less,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,3,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3,Less,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,3,Less,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,3more,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3more,High,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,3more,High,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,3more,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3more,High,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,3more,High,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,3more,High,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3more,High,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,3more,High,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3more,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,3more,Moderate,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3more,Moderate,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,3more,Moderate,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3more,Moderate,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,3more,Moderate,adults,grad,It seems to be very dangerous
+Mastercard,vhigh,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3more,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,vhigh,3more,Less,Youngs,grad,It seems to be very dangerous
+Mastercard,vhigh,3more,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3more,Less,seniors,metric,It seems to be very dangerous
+Mastercard,vhigh,3more,Less,seniors,grad,It seems to be very dangerous
+Mastercard,vhigh,3more,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,vhigh,3more,Less,adults,metric,It seems to be very dangerous
+Mastercard,vhigh,3more,Less,adults,grad,It seems to be very dangerous
+Mastercard,high,1,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,1,High,Youngs,metric,It seems to be very dangerous
+Mastercard,high,1,High,Youngs,grad,It seems to be very dangerous
+Mastercard,high,1,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,1,High,seniors,metric,It seems to be very dangerous
+Mastercard,high,1,High,seniors,grad,It seems to be very dangerous
+Mastercard,high,1,High,adults,illiterate,It seems to be very dangerous
+Mastercard,high,1,High,adults,metric,It seems to be very dangerous
+Mastercard,high,1,High,adults,grad,It seems to be very dangerous
+Mastercard,high,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,1,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,high,1,Moderate,Youngs,grad,it is not safe
+Mastercard,high,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,1,Moderate,seniors,metric,It seems to be very dangerous
+Mastercard,high,1,Moderate,seniors,grad,it is not safe
+Mastercard,high,1,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,high,1,Moderate,adults,metric,it is not safe
+Mastercard,high,1,Moderate,adults,grad,it is not safe
+Mastercard,high,1,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,1,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,high,1,Less,Youngs,grad,It seems to be very dangerous
+Mastercard,high,1,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,1,Less,seniors,metric,It seems to be very dangerous
+Mastercard,high,1,Less,seniors,grad,it is not safe
+Mastercard,high,1,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,high,1,Less,adults,metric,it is not safe
+Mastercard,high,1,Less,adults,grad,it is not safe
+Mastercard,high,2,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,2,High,Youngs,metric,It seems to be very dangerous
+Mastercard,high,2,High,Youngs,grad,It seems to be very dangerous
+Mastercard,high,2,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,2,High,seniors,metric,It seems to be very dangerous
+Mastercard,high,2,High,seniors,grad,It seems to be very dangerous
+Mastercard,high,2,High,adults,illiterate,It seems to be very dangerous
+Mastercard,high,2,High,adults,metric,It seems to be very dangerous
+Mastercard,high,2,High,adults,grad,It seems to be very dangerous
+Mastercard,high,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,2,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,high,2,Moderate,Youngs,grad,it is not safe
+Mastercard,high,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,2,Moderate,seniors,metric,It seems to be very dangerous
+Mastercard,high,2,Moderate,seniors,grad,it is not safe
+Mastercard,high,2,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,high,2,Moderate,adults,metric,it is not safe
+Mastercard,high,2,Moderate,adults,grad,it is not safe
+Mastercard,high,2,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,2,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,high,2,Less,Youngs,grad,it is not safe
+Mastercard,high,2,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,2,Less,seniors,metric,it is not safe
+Mastercard,high,2,Less,seniors,grad,it is not safe
+Mastercard,high,2,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,high,2,Less,adults,metric,it is not safe
+Mastercard,high,2,Less,adults,grad,it is not safe
+Mastercard,high,3,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,3,High,Youngs,metric,It seems to be very dangerous
+Mastercard,high,3,High,Youngs,grad,It seems to be very dangerous
+Mastercard,high,3,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,3,High,seniors,metric,It seems to be very dangerous
+Mastercard,high,3,High,seniors,grad,It seems to be very dangerous
+Mastercard,high,3,High,adults,illiterate,It seems to be very dangerous
+Mastercard,high,3,High,adults,metric,It seems to be very dangerous
+Mastercard,high,3,High,adults,grad,It seems to be very dangerous
+Mastercard,high,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,3,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,high,3,Moderate,Youngs,grad,it is not safe
+Mastercard,high,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,3,Moderate,seniors,metric,it is not safe
+Mastercard,high,3,Moderate,seniors,grad,it is not safe
+Mastercard,high,3,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,high,3,Moderate,adults,metric,it is not safe
+Mastercard,high,3,Moderate,adults,grad,it is not safe
+Mastercard,high,3,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,3,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,high,3,Less,Youngs,grad,it is not safe
+Mastercard,high,3,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,3,Less,seniors,metric,it is not safe
+Mastercard,high,3,Less,seniors,grad,it is not safe
+Mastercard,high,3,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,high,3,Less,adults,metric,it is not safe
+Mastercard,high,3,Less,adults,grad,it is not safe
+Mastercard,high,3more,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,3more,High,Youngs,metric,It seems to be very dangerous
+Mastercard,high,3more,High,Youngs,grad,It seems to be very dangerous
+Mastercard,high,3more,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,3more,High,seniors,metric,It seems to be very dangerous
+Mastercard,high,3more,High,seniors,grad,It seems to be very dangerous
+Mastercard,high,3more,High,adults,illiterate,It seems to be very dangerous
+Mastercard,high,3more,High,adults,metric,It seems to be very dangerous
+Mastercard,high,3more,High,adults,grad,It seems to be very dangerous
+Mastercard,high,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,3more,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,high,3more,Moderate,Youngs,grad,it is not safe
+Mastercard,high,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,3more,Moderate,seniors,metric,it is not safe
+Mastercard,high,3more,Moderate,seniors,grad,it is not safe
+Mastercard,high,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,high,3more,Moderate,adults,metric,it is not safe
+Mastercard,high,3more,Moderate,adults,grad,it is not safe
+Mastercard,high,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,high,3more,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,high,3more,Less,Youngs,grad,it is not safe
+Mastercard,high,3more,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,high,3more,Less,seniors,metric,it is not safe
+Mastercard,high,3more,Less,seniors,grad,it is not safe
+Mastercard,high,3more,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,high,3more,Less,adults,metric,it is not safe
+Mastercard,high,3more,Less,adults,grad,it is not safe
+Mastercard,med,1,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,1,High,Youngs,metric,It seems to be very dangerous
+Mastercard,med,1,High,Youngs,grad,It seems to be very dangerous
+Mastercard,med,1,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,1,High,seniors,metric,It seems to be very dangerous
+Mastercard,med,1,High,seniors,grad,It seems to be very dangerous
+Mastercard,med,1,High,adults,illiterate,It seems to be very dangerous
+Mastercard,med,1,High,adults,metric,It seems to be very dangerous
+Mastercard,med,1,High,adults,grad,It seems to be very dangerous
+Mastercard,med,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,1,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,med,1,Moderate,Youngs,grad,it is not safe
+Mastercard,med,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,1,Moderate,seniors,metric,It seems to be very dangerous
+Mastercard,med,1,Moderate,seniors,grad,it is not safe
+Mastercard,med,1,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,med,1,Moderate,adults,metric,it is not safe
+Mastercard,med,1,Moderate,adults,grad,it is not safe
+Mastercard,med,1,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,1,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,med,1,Less,Youngs,grad,It seems to be very dangerous
+Mastercard,med,1,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,1,Less,seniors,metric,It seems to be very dangerous
+Mastercard,med,1,Less,seniors,grad,it is not safe
+Mastercard,med,1,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,med,1,Less,adults,metric,it is not safe
+Mastercard,med,1,Less,adults,grad,it is not safe
+Mastercard,med,2,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,2,High,Youngs,metric,It seems to be very dangerous
+Mastercard,med,2,High,Youngs,grad,It seems to be very dangerous
+Mastercard,med,2,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,2,High,seniors,metric,It seems to be very dangerous
+Mastercard,med,2,High,seniors,grad,It seems to be very dangerous
+Mastercard,med,2,High,adults,illiterate,It seems to be very dangerous
+Mastercard,med,2,High,adults,metric,It seems to be very dangerous
+Mastercard,med,2,High,adults,grad,It seems to be very dangerous
+Mastercard,med,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,2,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,med,2,Moderate,Youngs,grad,it is not safe
+Mastercard,med,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,2,Moderate,seniors,metric,It seems to be very dangerous
+Mastercard,med,2,Moderate,seniors,grad,it is not safe
+Mastercard,med,2,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,med,2,Moderate,adults,metric,it is not safe
+Mastercard,med,2,Moderate,adults,grad,it is not safe
+Mastercard,med,2,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,2,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,med,2,Less,Youngs,grad,it is not safe
+Mastercard,med,2,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,2,Less,seniors,metric,it is not safe
+Mastercard,med,2,Less,seniors,grad,it is not safe
+Mastercard,med,2,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,med,2,Less,adults,metric,it is not safe
+Mastercard,med,2,Less,adults,grad,it is not safe
+Mastercard,med,3,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,3,High,Youngs,metric,It seems to be very dangerous
+Mastercard,med,3,High,Youngs,grad,It seems to be very dangerous
+Mastercard,med,3,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,3,High,seniors,metric,It seems to be very dangerous
+Mastercard,med,3,High,seniors,grad,It seems to be very dangerous
+Mastercard,med,3,High,adults,illiterate,It seems to be very dangerous
+Mastercard,med,3,High,adults,metric,It seems to be very dangerous
+Mastercard,med,3,High,adults,grad,It seems to be very dangerous
+Mastercard,med,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,3,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,med,3,Moderate,Youngs,grad,it is not safe
+Mastercard,med,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,3,Moderate,seniors,metric,it is not safe
+Mastercard,med,3,Moderate,seniors,grad,it is not safe
+Mastercard,med,3,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,med,3,Moderate,adults,metric,it is not safe
+Mastercard,med,3,Moderate,adults,grad,it is not safe
+Mastercard,med,3,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,3,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,med,3,Less,Youngs,grad,it is not safe
+Mastercard,med,3,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,3,Less,seniors,metric,it is not safe
+Mastercard,med,3,Less,seniors,grad,it is not safe
+Mastercard,med,3,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,med,3,Less,adults,metric,it is not safe
+Mastercard,med,3,Less,adults,grad,it is not safe
+Mastercard,med,3more,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,3more,High,Youngs,metric,It seems to be very dangerous
+Mastercard,med,3more,High,Youngs,grad,It seems to be very dangerous
+Mastercard,med,3more,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,3more,High,seniors,metric,It seems to be very dangerous
+Mastercard,med,3more,High,seniors,grad,It seems to be very dangerous
+Mastercard,med,3more,High,adults,illiterate,It seems to be very dangerous
+Mastercard,med,3more,High,adults,metric,It seems to be very dangerous
+Mastercard,med,3more,High,adults,grad,It seems to be very dangerous
+Mastercard,med,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,3more,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,med,3more,Moderate,Youngs,grad,it is not safe
+Mastercard,med,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,3more,Moderate,seniors,metric,it is not safe
+Mastercard,med,3more,Moderate,seniors,grad,it is not safe
+Mastercard,med,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,med,3more,Moderate,adults,metric,it is not safe
+Mastercard,med,3more,Moderate,adults,grad,it is not safe
+Mastercard,med,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,med,3more,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,med,3more,Less,Youngs,grad,it is not safe
+Mastercard,med,3more,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,med,3more,Less,seniors,metric,it is not safe
+Mastercard,med,3more,Less,seniors,grad,it is not safe
+Mastercard,med,3more,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,med,3more,Less,adults,metric,it is not safe
+Mastercard,med,3more,Less,adults,grad,it is not safe
+Mastercard,low,1,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,1,High,Youngs,metric,It seems to be very dangerous
+Mastercard,low,1,High,Youngs,grad,It seems to be very dangerous
+Mastercard,low,1,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,1,High,seniors,metric,It seems to be very dangerous
+Mastercard,low,1,High,seniors,grad,It seems to be very dangerous
+Mastercard,low,1,High,adults,illiterate,It seems to be very dangerous
+Mastercard,low,1,High,adults,metric,It seems to be very dangerous
+Mastercard,low,1,High,adults,grad,It seems to be very dangerous
+Mastercard,low,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,1,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,low,1,Moderate,Youngs,grad,it is not safe
+Mastercard,low,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,1,Moderate,seniors,metric,It seems to be very dangerous
+Mastercard,low,1,Moderate,seniors,grad,it is not safe
+Mastercard,low,1,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,low,1,Moderate,adults,metric,it is not safe
+Mastercard,low,1,Moderate,adults,grad,it is not safe
+Mastercard,low,1,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,1,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,low,1,Less,Youngs,grad,It seems to be very dangerous
+Mastercard,low,1,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,1,Less,seniors,metric,It seems to be very dangerous
+Mastercard,low,1,Less,seniors,grad,it is not safe
+Mastercard,low,1,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,low,1,Less,adults,metric,it is not safe
+Mastercard,low,1,Less,adults,grad,it is not safe
+Mastercard,low,2,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,2,High,Youngs,metric,It seems to be very dangerous
+Mastercard,low,2,High,Youngs,grad,It seems to be very dangerous
+Mastercard,low,2,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,2,High,seniors,metric,It seems to be very dangerous
+Mastercard,low,2,High,seniors,grad,It seems to be very dangerous
+Mastercard,low,2,High,adults,illiterate,It seems to be very dangerous
+Mastercard,low,2,High,adults,metric,It seems to be very dangerous
+Mastercard,low,2,High,adults,grad,It seems to be very dangerous
+Mastercard,low,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,2,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,low,2,Moderate,Youngs,grad,it is not safe
+Mastercard,low,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,2,Moderate,seniors,metric,It seems to be very dangerous
+Mastercard,low,2,Moderate,seniors,grad,it is not safe
+Mastercard,low,2,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,low,2,Moderate,adults,metric,it is not safe
+Mastercard,low,2,Moderate,adults,grad,it is not safe
+Mastercard,low,2,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,2,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,low,2,Less,Youngs,grad,it is not safe
+Mastercard,low,2,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,2,Less,seniors,metric,it is not safe
+Mastercard,low,2,Less,seniors,grad,it is not safe
+Mastercard,low,2,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,low,2,Less,adults,metric,it is not safe
+Mastercard,low,2,Less,adults,grad,it is not safe
+Mastercard,low,3,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,3,High,Youngs,metric,It seems to be very dangerous
+Mastercard,low,3,High,Youngs,grad,It seems to be very dangerous
+Mastercard,low,3,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,3,High,seniors,metric,It seems to be very dangerous
+Mastercard,low,3,High,seniors,grad,It seems to be very dangerous
+Mastercard,low,3,High,adults,illiterate,It seems to be very dangerous
+Mastercard,low,3,High,adults,metric,It seems to be very dangerous
+Mastercard,low,3,High,adults,grad,It seems to be very dangerous
+Mastercard,low,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,3,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,low,3,Moderate,Youngs,grad,it is not safe
+Mastercard,low,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,3,Moderate,seniors,metric,it is not safe
+Mastercard,low,3,Moderate,seniors,grad,it is not safe
+Mastercard,low,3,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,low,3,Moderate,adults,metric,it is not safe
+Mastercard,low,3,Moderate,adults,grad,it is not safe
+Mastercard,low,3,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,3,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,low,3,Less,Youngs,grad,it is not safe
+Mastercard,low,3,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,3,Less,seniors,metric,it is not safe
+Mastercard,low,3,Less,seniors,grad,it is not safe
+Mastercard,low,3,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,low,3,Less,adults,metric,it is not safe
+Mastercard,low,3,Less,adults,grad,it is not safe
+Mastercard,low,3more,High,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,3more,High,Youngs,metric,It seems to be very dangerous
+Mastercard,low,3more,High,Youngs,grad,It seems to be very dangerous
+Mastercard,low,3more,High,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,3more,High,seniors,metric,It seems to be very dangerous
+Mastercard,low,3more,High,seniors,grad,It seems to be very dangerous
+Mastercard,low,3more,High,adults,illiterate,It seems to be very dangerous
+Mastercard,low,3more,High,adults,metric,It seems to be very dangerous
+Mastercard,low,3more,High,adults,grad,It seems to be very dangerous
+Mastercard,low,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,3more,Moderate,Youngs,metric,It seems to be very dangerous
+Mastercard,low,3more,Moderate,Youngs,grad,it is not safe
+Mastercard,low,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,3more,Moderate,seniors,metric,it is not safe
+Mastercard,low,3more,Moderate,seniors,grad,it is not safe
+Mastercard,low,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Mastercard,low,3more,Moderate,adults,metric,it is not safe
+Mastercard,low,3more,Moderate,adults,grad,it is not safe
+Mastercard,low,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Mastercard,low,3more,Less,Youngs,metric,It seems to be very dangerous
+Mastercard,low,3more,Less,Youngs,grad,it is not safe
+Mastercard,low,3more,Less,seniors,illiterate,It seems to be very dangerous
+Mastercard,low,3more,Less,seniors,metric,it is not safe
+Mastercard,low,3more,Less,seniors,grad,it is not safe
+Mastercard,low,3more,Less,adults,illiterate,It seems to be very dangerous
+Mastercard,low,3more,Less,adults,metric,it is not safe
+Mastercard,low,3more,Less,adults,grad,it is not safe
+MX,vhigh,1,High,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,1,High,Youngs,metric,It seems to be very dangerous
+MX,vhigh,1,High,Youngs,grad,It seems to be very dangerous
+MX,vhigh,1,High,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,1,High,seniors,metric,It seems to be very dangerous
+MX,vhigh,1,High,seniors,grad,It seems to be very dangerous
+MX,vhigh,1,High,adults,illiterate,It seems to be very dangerous
+MX,vhigh,1,High,adults,metric,It seems to be very dangerous
+MX,vhigh,1,High,adults,grad,It seems to be very dangerous
+MX,vhigh,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,1,Moderate,Youngs,metric,It seems to be very dangerous
+MX,vhigh,1,Moderate,Youngs,grad,it is not safe
+MX,vhigh,1,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,1,Moderate,seniors,metric,It seems to be very dangerous
+MX,vhigh,1,Moderate,seniors,grad,it is not safe
+MX,vhigh,1,Moderate,adults,illiterate,It seems to be very dangerous
+MX,vhigh,1,Moderate,adults,metric,it is not safe
+MX,vhigh,1,Moderate,adults,grad,it is not safe
+MX,vhigh,1,Less,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,1,Less,Youngs,metric,It seems to be very dangerous
+MX,vhigh,1,Less,Youngs,grad,It seems to be very dangerous
+MX,vhigh,1,Less,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,1,Less,seniors,metric,It seems to be very dangerous
+MX,vhigh,1,Less,seniors,grad,it is not safe
+MX,vhigh,1,Less,adults,illiterate,It seems to be very dangerous
+MX,vhigh,1,Less,adults,metric,it is not safe
+MX,vhigh,1,Less,adults,grad,it is not safe
+MX,vhigh,2,High,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,2,High,Youngs,metric,It seems to be very dangerous
+MX,vhigh,2,High,Youngs,grad,It seems to be very dangerous
+MX,vhigh,2,High,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,2,High,seniors,metric,It seems to be very dangerous
+MX,vhigh,2,High,seniors,grad,It seems to be very dangerous
+MX,vhigh,2,High,adults,illiterate,It seems to be very dangerous
+MX,vhigh,2,High,adults,metric,It seems to be very dangerous
+MX,vhigh,2,High,adults,grad,It seems to be very dangerous
+MX,vhigh,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,2,Moderate,Youngs,metric,It seems to be very dangerous
+MX,vhigh,2,Moderate,Youngs,grad,it is not safe
+MX,vhigh,2,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,2,Moderate,seniors,metric,It seems to be very dangerous
+MX,vhigh,2,Moderate,seniors,grad,it is not safe
+MX,vhigh,2,Moderate,adults,illiterate,It seems to be very dangerous
+MX,vhigh,2,Moderate,adults,metric,it is not safe
+MX,vhigh,2,Moderate,adults,grad,it is not safe
+MX,vhigh,2,Less,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,2,Less,Youngs,metric,It seems to be very dangerous
+MX,vhigh,2,Less,Youngs,grad,it is not safe
+MX,vhigh,2,Less,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,2,Less,seniors,metric,it is not safe
+MX,vhigh,2,Less,seniors,grad,it is not safe
+MX,vhigh,2,Less,adults,illiterate,It seems to be very dangerous
+MX,vhigh,2,Less,adults,metric,it is not safe
+MX,vhigh,2,Less,adults,grad,it is not safe
+MX,vhigh,3,High,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,3,High,Youngs,metric,It seems to be very dangerous
+MX,vhigh,3,High,Youngs,grad,It seems to be very dangerous
+MX,vhigh,3,High,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,3,High,seniors,metric,It seems to be very dangerous
+MX,vhigh,3,High,seniors,grad,It seems to be very dangerous
+MX,vhigh,3,High,adults,illiterate,It seems to be very dangerous
+MX,vhigh,3,High,adults,metric,It seems to be very dangerous
+MX,vhigh,3,High,adults,grad,It seems to be very dangerous
+MX,vhigh,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,3,Moderate,Youngs,metric,It seems to be very dangerous
+MX,vhigh,3,Moderate,Youngs,grad,it is not safe
+MX,vhigh,3,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,3,Moderate,seniors,metric,it is not safe
+MX,vhigh,3,Moderate,seniors,grad,it is not safe
+MX,vhigh,3,Moderate,adults,illiterate,It seems to be very dangerous
+MX,vhigh,3,Moderate,adults,metric,it is not safe
+MX,vhigh,3,Moderate,adults,grad,it is not safe
+MX,vhigh,3,Less,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,3,Less,Youngs,metric,It seems to be very dangerous
+MX,vhigh,3,Less,Youngs,grad,it is not safe
+MX,vhigh,3,Less,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,3,Less,seniors,metric,it is not safe
+MX,vhigh,3,Less,seniors,grad,it is not safe
+MX,vhigh,3,Less,adults,illiterate,It seems to be very dangerous
+MX,vhigh,3,Less,adults,metric,it is not safe
+MX,vhigh,3,Less,adults,grad,it is not safe
+MX,vhigh,3more,High,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,3more,High,Youngs,metric,It seems to be very dangerous
+MX,vhigh,3more,High,Youngs,grad,It seems to be very dangerous
+MX,vhigh,3more,High,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,3more,High,seniors,metric,It seems to be very dangerous
+MX,vhigh,3more,High,seniors,grad,It seems to be very dangerous
+MX,vhigh,3more,High,adults,illiterate,It seems to be very dangerous
+MX,vhigh,3more,High,adults,metric,It seems to be very dangerous
+MX,vhigh,3more,High,adults,grad,It seems to be very dangerous
+MX,vhigh,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,3more,Moderate,Youngs,metric,It seems to be very dangerous
+MX,vhigh,3more,Moderate,Youngs,grad,it is not safe
+MX,vhigh,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,3more,Moderate,seniors,metric,it is not safe
+MX,vhigh,3more,Moderate,seniors,grad,it is not safe
+MX,vhigh,3more,Moderate,adults,illiterate,It seems to be very dangerous
+MX,vhigh,3more,Moderate,adults,metric,it is not safe
+MX,vhigh,3more,Moderate,adults,grad,it is not safe
+MX,vhigh,3more,Less,Youngs,illiterate,It seems to be very dangerous
+MX,vhigh,3more,Less,Youngs,metric,It seems to be very dangerous
+MX,vhigh,3more,Less,Youngs,grad,it is not safe
+MX,vhigh,3more,Less,seniors,illiterate,It seems to be very dangerous
+MX,vhigh,3more,Less,seniors,metric,it is not safe
+MX,vhigh,3more,Less,seniors,grad,it is not safe
+MX,vhigh,3more,Less,adults,illiterate,It seems to be very dangerous
+MX,vhigh,3more,Less,adults,metric,it is not safe
+MX,vhigh,3more,Less,adults,grad,it is not safe
+MX,high,1,High,Youngs,illiterate,It seems to be very dangerous
+MX,high,1,High,Youngs,metric,It seems to be very dangerous
+MX,high,1,High,Youngs,grad,It seems to be very dangerous
+MX,high,1,High,seniors,illiterate,It seems to be very dangerous
+MX,high,1,High,seniors,metric,It seems to be very dangerous
+MX,high,1,High,seniors,grad,It seems to be very dangerous
+MX,high,1,High,adults,illiterate,It seems to be very dangerous
+MX,high,1,High,adults,metric,It seems to be very dangerous
+MX,high,1,High,adults,grad,It seems to be very dangerous
+MX,high,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,high,1,Moderate,Youngs,metric,It seems to be very dangerous
+MX,high,1,Moderate,Youngs,grad,it is not safe
+MX,high,1,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,high,1,Moderate,seniors,metric,It seems to be very dangerous
+MX,high,1,Moderate,seniors,grad,it is not safe
+MX,high,1,Moderate,adults,illiterate,It seems to be very dangerous
+MX,high,1,Moderate,adults,metric,it is not safe
+MX,high,1,Moderate,adults,grad,it is not safe
+MX,high,1,Less,Youngs,illiterate,It seems to be very dangerous
+MX,high,1,Less,Youngs,metric,It seems to be very dangerous
+MX,high,1,Less,Youngs,grad,It seems to be very dangerous
+MX,high,1,Less,seniors,illiterate,It seems to be very dangerous
+MX,high,1,Less,seniors,metric,It seems to be very dangerous
+MX,high,1,Less,seniors,grad,it is not safe
+MX,high,1,Less,adults,illiterate,It seems to be very dangerous
+MX,high,1,Less,adults,metric,it is not safe
+MX,high,1,Less,adults,grad,it is not safe
+MX,high,2,High,Youngs,illiterate,It seems to be very dangerous
+MX,high,2,High,Youngs,metric,It seems to be very dangerous
+MX,high,2,High,Youngs,grad,It seems to be very dangerous
+MX,high,2,High,seniors,illiterate,It seems to be very dangerous
+MX,high,2,High,seniors,metric,It seems to be very dangerous
+MX,high,2,High,seniors,grad,It seems to be very dangerous
+MX,high,2,High,adults,illiterate,It seems to be very dangerous
+MX,high,2,High,adults,metric,It seems to be very dangerous
+MX,high,2,High,adults,grad,It seems to be very dangerous
+MX,high,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,high,2,Moderate,Youngs,metric,It seems to be very dangerous
+MX,high,2,Moderate,Youngs,grad,it is not safe
+MX,high,2,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,high,2,Moderate,seniors,metric,It seems to be very dangerous
+MX,high,2,Moderate,seniors,grad,it is not safe
+MX,high,2,Moderate,adults,illiterate,It seems to be very dangerous
+MX,high,2,Moderate,adults,metric,it is not safe
+MX,high,2,Moderate,adults,grad,it is not safe
+MX,high,2,Less,Youngs,illiterate,It seems to be very dangerous
+MX,high,2,Less,Youngs,metric,It seems to be very dangerous
+MX,high,2,Less,Youngs,grad,it is not safe
+MX,high,2,Less,seniors,illiterate,It seems to be very dangerous
+MX,high,2,Less,seniors,metric,it is not safe
+MX,high,2,Less,seniors,grad,it is not safe
+MX,high,2,Less,adults,illiterate,It seems to be very dangerous
+MX,high,2,Less,adults,metric,it is not safe
+MX,high,2,Less,adults,grad,it is not safe
+MX,high,3,High,Youngs,illiterate,It seems to be very dangerous
+MX,high,3,High,Youngs,metric,It seems to be very dangerous
+MX,high,3,High,Youngs,grad,It seems to be very dangerous
+MX,high,3,High,seniors,illiterate,It seems to be very dangerous
+MX,high,3,High,seniors,metric,It seems to be very dangerous
+MX,high,3,High,seniors,grad,It seems to be very dangerous
+MX,high,3,High,adults,illiterate,It seems to be very dangerous
+MX,high,3,High,adults,metric,It seems to be very dangerous
+MX,high,3,High,adults,grad,It seems to be very dangerous
+MX,high,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,high,3,Moderate,Youngs,metric,It seems to be very dangerous
+MX,high,3,Moderate,Youngs,grad,it is not safe
+MX,high,3,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,high,3,Moderate,seniors,metric,it is not safe
+MX,high,3,Moderate,seniors,grad,it is not safe
+MX,high,3,Moderate,adults,illiterate,It seems to be very dangerous
+MX,high,3,Moderate,adults,metric,it is not safe
+MX,high,3,Moderate,adults,grad,it is not safe
+MX,high,3,Less,Youngs,illiterate,It seems to be very dangerous
+MX,high,3,Less,Youngs,metric,It seems to be very dangerous
+MX,high,3,Less,Youngs,grad,it is not safe
+MX,high,3,Less,seniors,illiterate,It seems to be very dangerous
+MX,high,3,Less,seniors,metric,it is not safe
+MX,high,3,Less,seniors,grad,it is not safe
+MX,high,3,Less,adults,illiterate,It seems to be very dangerous
+MX,high,3,Less,adults,metric,it is not safe
+MX,high,3,Less,adults,grad,it is not safe
+MX,high,3more,High,Youngs,illiterate,It seems to be very dangerous
+MX,high,3more,High,Youngs,metric,It seems to be very dangerous
+MX,high,3more,High,Youngs,grad,It seems to be very dangerous
+MX,high,3more,High,seniors,illiterate,It seems to be very dangerous
+MX,high,3more,High,seniors,metric,It seems to be very dangerous
+MX,high,3more,High,seniors,grad,It seems to be very dangerous
+MX,high,3more,High,adults,illiterate,It seems to be very dangerous
+MX,high,3more,High,adults,metric,It seems to be very dangerous
+MX,high,3more,High,adults,grad,It seems to be very dangerous
+MX,high,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,high,3more,Moderate,Youngs,metric,It seems to be very dangerous
+MX,high,3more,Moderate,Youngs,grad,it is not safe
+MX,high,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,high,3more,Moderate,seniors,metric,it is not safe
+MX,high,3more,Moderate,seniors,grad,it is not safe
+MX,high,3more,Moderate,adults,illiterate,It seems to be very dangerous
+MX,high,3more,Moderate,adults,metric,it is not safe
+MX,high,3more,Moderate,adults,grad,it is not safe
+MX,high,3more,Less,Youngs,illiterate,It seems to be very dangerous
+MX,high,3more,Less,Youngs,metric,It seems to be very dangerous
+MX,high,3more,Less,Youngs,grad,it is not safe
+MX,high,3more,Less,seniors,illiterate,It seems to be very dangerous
+MX,high,3more,Less,seniors,metric,it is not safe
+MX,high,3more,Less,seniors,grad,it is not safe
+MX,high,3more,Less,adults,illiterate,It seems to be very dangerous
+MX,high,3more,Less,adults,metric,it is not safe
+MX,high,3more,Less,adults,grad,it is not safe
+MX,med,1,High,Youngs,illiterate,It seems to be very dangerous
+MX,med,1,High,Youngs,metric,It seems to be very dangerous
+MX,med,1,High,Youngs,grad,It seems to be very dangerous
+MX,med,1,High,seniors,illiterate,It seems to be very dangerous
+MX,med,1,High,seniors,metric,It seems to be very dangerous
+MX,med,1,High,seniors,grad,It seems to be very dangerous
+MX,med,1,High,adults,illiterate,It seems to be very dangerous
+MX,med,1,High,adults,metric,It seems to be very dangerous
+MX,med,1,High,adults,grad,It seems to be very dangerous
+MX,med,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,med,1,Moderate,Youngs,metric,it is not safe
+MX,med,1,Moderate,Youngs,grad,it is not safe
+MX,med,1,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,med,1,Moderate,seniors,metric,it is not safe
+MX,med,1,Moderate,seniors,grad,it is not safe
+MX,med,1,Moderate,adults,illiterate,It seems to be very dangerous
+MX,med,1,Moderate,adults,metric,it is not safe
+MX,med,1,Moderate,adults,grad,It is very safe and secure
+MX,med,1,Less,Youngs,illiterate,It seems to be very dangerous
+MX,med,1,Less,Youngs,metric,It seems to be very dangerous
+MX,med,1,Less,Youngs,grad,It seems to be very dangerous
+MX,med,1,Less,seniors,illiterate,It seems to be very dangerous
+MX,med,1,Less,seniors,metric,it is not safe
+MX,med,1,Less,seniors,grad,it is not safe
+MX,med,1,Less,adults,illiterate,It seems to be very dangerous
+MX,med,1,Less,adults,metric,it is not safe
+MX,med,1,Less,adults,grad,It is very safe and secure
+MX,med,2,High,Youngs,illiterate,It seems to be very dangerous
+MX,med,2,High,Youngs,metric,It seems to be very dangerous
+MX,med,2,High,Youngs,grad,It seems to be very dangerous
+MX,med,2,High,seniors,illiterate,It seems to be very dangerous
+MX,med,2,High,seniors,metric,It seems to be very dangerous
+MX,med,2,High,seniors,grad,It seems to be very dangerous
+MX,med,2,High,adults,illiterate,It seems to be very dangerous
+MX,med,2,High,adults,metric,It seems to be very dangerous
+MX,med,2,High,adults,grad,It seems to be very dangerous
+MX,med,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,med,2,Moderate,Youngs,metric,it is not safe
+MX,med,2,Moderate,Youngs,grad,it is not safe
+MX,med,2,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,med,2,Moderate,seniors,metric,it is not safe
+MX,med,2,Moderate,seniors,grad,it is not safe
+MX,med,2,Moderate,adults,illiterate,It seems to be very dangerous
+MX,med,2,Moderate,adults,metric,it is not safe
+MX,med,2,Moderate,adults,grad,It is very safe and secure
+MX,med,2,Less,Youngs,illiterate,It seems to be very dangerous
+MX,med,2,Less,Youngs,metric,it is not safe
+MX,med,2,Less,Youngs,grad,it is not safe
+MX,med,2,Less,seniors,illiterate,It seems to be very dangerous
+MX,med,2,Less,seniors,metric,it is not safe
+MX,med,2,Less,seniors,grad,It is very safe and secure
+MX,med,2,Less,adults,illiterate,It seems to be very dangerous
+MX,med,2,Less,adults,metric,it is not safe
+MX,med,2,Less,adults,grad,It is very safe and secure
+MX,med,3,High,Youngs,illiterate,It seems to be very dangerous
+MX,med,3,High,Youngs,metric,It seems to be very dangerous
+MX,med,3,High,Youngs,grad,It seems to be very dangerous
+MX,med,3,High,seniors,illiterate,It seems to be very dangerous
+MX,med,3,High,seniors,metric,It seems to be very dangerous
+MX,med,3,High,seniors,grad,It seems to be very dangerous
+MX,med,3,High,adults,illiterate,It seems to be very dangerous
+MX,med,3,High,adults,metric,It seems to be very dangerous
+MX,med,3,High,adults,grad,It seems to be very dangerous
+MX,med,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,med,3,Moderate,Youngs,metric,it is not safe
+MX,med,3,Moderate,Youngs,grad,it is not safe
+MX,med,3,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,med,3,Moderate,seniors,metric,it is not safe
+MX,med,3,Moderate,seniors,grad,It is very safe and secure
+MX,med,3,Moderate,adults,illiterate,It seems to be very dangerous
+MX,med,3,Moderate,adults,metric,it is not safe
+MX,med,3,Moderate,adults,grad,It is very safe and secure
+MX,med,3,Less,Youngs,illiterate,It seems to be very dangerous
+MX,med,3,Less,Youngs,metric,it is not safe
+MX,med,3,Less,Youngs,grad,it is not safe
+MX,med,3,Less,seniors,illiterate,It seems to be very dangerous
+MX,med,3,Less,seniors,metric,it is not safe
+MX,med,3,Less,seniors,grad,It is very safe and secure
+MX,med,3,Less,adults,illiterate,It seems to be very dangerous
+MX,med,3,Less,adults,metric,it is not safe
+MX,med,3,Less,adults,grad,It is very safe and secure
+MX,med,3more,High,Youngs,illiterate,It seems to be very dangerous
+MX,med,3more,High,Youngs,metric,It seems to be very dangerous
+MX,med,3more,High,Youngs,grad,It seems to be very dangerous
+MX,med,3more,High,seniors,illiterate,It seems to be very dangerous
+MX,med,3more,High,seniors,metric,It seems to be very dangerous
+MX,med,3more,High,seniors,grad,It seems to be very dangerous
+MX,med,3more,High,adults,illiterate,It seems to be very dangerous
+MX,med,3more,High,adults,metric,It seems to be very dangerous
+MX,med,3more,High,adults,grad,It seems to be very dangerous
+MX,med,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,med,3more,Moderate,Youngs,metric,it is not safe
+MX,med,3more,Moderate,Youngs,grad,it is not safe
+MX,med,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,med,3more,Moderate,seniors,metric,it is not safe
+MX,med,3more,Moderate,seniors,grad,It is very safe and secure
+MX,med,3more,Moderate,adults,illiterate,It seems to be very dangerous
+MX,med,3more,Moderate,adults,metric,it is not safe
+MX,med,3more,Moderate,adults,grad,It is very safe and secure
+MX,med,3more,Less,Youngs,illiterate,It seems to be very dangerous
+MX,med,3more,Less,Youngs,metric,it is not safe
+MX,med,3more,Less,Youngs,grad,it is not safe
+MX,med,3more,Less,seniors,illiterate,It seems to be very dangerous
+MX,med,3more,Less,seniors,metric,it is not safe
+MX,med,3more,Less,seniors,grad,It is very safe and secure
+MX,med,3more,Less,adults,illiterate,It seems to be very dangerous
+MX,med,3more,Less,adults,metric,it is not safe
+MX,med,3more,Less,adults,grad,It is very safe and secure
+MX,low,1,High,Youngs,illiterate,It seems to be very dangerous
+MX,low,1,High,Youngs,metric,It seems to be very dangerous
+MX,low,1,High,Youngs,grad,It seems to be very dangerous
+MX,low,1,High,seniors,illiterate,It seems to be very dangerous
+MX,low,1,High,seniors,metric,It seems to be very dangerous
+MX,low,1,High,seniors,grad,It seems to be very dangerous
+MX,low,1,High,adults,illiterate,It seems to be very dangerous
+MX,low,1,High,adults,metric,It seems to be very dangerous
+MX,low,1,High,adults,grad,It seems to be very dangerous
+MX,low,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,low,1,Moderate,Youngs,metric,it is not safe
+MX,low,1,Moderate,Youngs,grad,it is safe
+MX,low,1,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,low,1,Moderate,seniors,metric,it is not safe
+MX,low,1,Moderate,seniors,grad,it is safe
+MX,low,1,Moderate,adults,illiterate,It seems to be very dangerous
+MX,low,1,Moderate,adults,metric,it is safe
+MX,low,1,Moderate,adults,grad,It is very safe and secure
+MX,low,1,Less,Youngs,illiterate,It seems to be very dangerous
+MX,low,1,Less,Youngs,metric,It seems to be very dangerous
+MX,low,1,Less,Youngs,grad,It seems to be very dangerous
+MX,low,1,Less,seniors,illiterate,It seems to be very dangerous
+MX,low,1,Less,seniors,metric,it is not safe
+MX,low,1,Less,seniors,grad,it is safe
+MX,low,1,Less,adults,illiterate,It seems to be very dangerous
+MX,low,1,Less,adults,metric,it is safe
+MX,low,1,Less,adults,grad,It is very safe and secure
+MX,low,2,High,Youngs,illiterate,It seems to be very dangerous
+MX,low,2,High,Youngs,metric,It seems to be very dangerous
+MX,low,2,High,Youngs,grad,It seems to be very dangerous
+MX,low,2,High,seniors,illiterate,It seems to be very dangerous
+MX,low,2,High,seniors,metric,It seems to be very dangerous
+MX,low,2,High,seniors,grad,It seems to be very dangerous
+MX,low,2,High,adults,illiterate,It seems to be very dangerous
+MX,low,2,High,adults,metric,It seems to be very dangerous
+MX,low,2,High,adults,grad,It seems to be very dangerous
+MX,low,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,low,2,Moderate,Youngs,metric,it is not safe
+MX,low,2,Moderate,Youngs,grad,it is safe
+MX,low,2,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,low,2,Moderate,seniors,metric,it is not safe
+MX,low,2,Moderate,seniors,grad,it is safe
+MX,low,2,Moderate,adults,illiterate,It seems to be very dangerous
+MX,low,2,Moderate,adults,metric,it is safe
+MX,low,2,Moderate,adults,grad,It is very safe and secure
+MX,low,2,Less,Youngs,illiterate,It seems to be very dangerous
+MX,low,2,Less,Youngs,metric,it is not safe
+MX,low,2,Less,Youngs,grad,it is safe
+MX,low,2,Less,seniors,illiterate,It seems to be very dangerous
+MX,low,2,Less,seniors,metric,it is safe
+MX,low,2,Less,seniors,grad,It is very safe and secure
+MX,low,2,Less,adults,illiterate,It seems to be very dangerous
+MX,low,2,Less,adults,metric,it is safe
+MX,low,2,Less,adults,grad,It is very safe and secure
+MX,low,3,High,Youngs,illiterate,It seems to be very dangerous
+MX,low,3,High,Youngs,metric,It seems to be very dangerous
+MX,low,3,High,Youngs,grad,It seems to be very dangerous
+MX,low,3,High,seniors,illiterate,It seems to be very dangerous
+MX,low,3,High,seniors,metric,It seems to be very dangerous
+MX,low,3,High,seniors,grad,It seems to be very dangerous
+MX,low,3,High,adults,illiterate,It seems to be very dangerous
+MX,low,3,High,adults,metric,It seems to be very dangerous
+MX,low,3,High,adults,grad,It seems to be very dangerous
+MX,low,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,low,3,Moderate,Youngs,metric,it is not safe
+MX,low,3,Moderate,Youngs,grad,it is safe
+MX,low,3,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,low,3,Moderate,seniors,metric,it is safe
+MX,low,3,Moderate,seniors,grad,It is very safe and secure
+MX,low,3,Moderate,adults,illiterate,It seems to be very dangerous
+MX,low,3,Moderate,adults,metric,it is safe
+MX,low,3,Moderate,adults,grad,It is very safe and secure
+MX,low,3,Less,Youngs,illiterate,It seems to be very dangerous
+MX,low,3,Less,Youngs,metric,it is not safe
+MX,low,3,Less,Youngs,grad,it is safe
+MX,low,3,Less,seniors,illiterate,It seems to be very dangerous
+MX,low,3,Less,seniors,metric,it is safe
+MX,low,3,Less,seniors,grad,It is very safe and secure
+MX,low,3,Less,adults,illiterate,It seems to be very dangerous
+MX,low,3,Less,adults,metric,it is safe
+MX,low,3,Less,adults,grad,It is very safe and secure
+MX,low,3more,High,Youngs,illiterate,It seems to be very dangerous
+MX,low,3more,High,Youngs,metric,It seems to be very dangerous
+MX,low,3more,High,Youngs,grad,It seems to be very dangerous
+MX,low,3more,High,seniors,illiterate,It seems to be very dangerous
+MX,low,3more,High,seniors,metric,It seems to be very dangerous
+MX,low,3more,High,seniors,grad,It seems to be very dangerous
+MX,low,3more,High,adults,illiterate,It seems to be very dangerous
+MX,low,3more,High,adults,metric,It seems to be very dangerous
+MX,low,3more,High,adults,grad,It seems to be very dangerous
+MX,low,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+MX,low,3more,Moderate,Youngs,metric,it is not safe
+MX,low,3more,Moderate,Youngs,grad,it is safe
+MX,low,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+MX,low,3more,Moderate,seniors,metric,it is safe
+MX,low,3more,Moderate,seniors,grad,It is very safe and secure
+MX,low,3more,Moderate,adults,illiterate,It seems to be very dangerous
+MX,low,3more,Moderate,adults,metric,it is safe
+MX,low,3more,Moderate,adults,grad,It is very safe and secure
+MX,low,3more,Less,Youngs,illiterate,It seems to be very dangerous
+MX,low,3more,Less,Youngs,metric,it is not safe
+MX,low,3more,Less,Youngs,grad,it is safe
+MX,low,3more,Less,seniors,illiterate,It seems to be very dangerous
+MX,low,3more,Less,seniors,metric,it is safe
+MX,low,3more,Less,seniors,grad,It is very safe and secure
+MX,low,3more,Less,adults,illiterate,It seems to be very dangerous
+MX,low,3more,Less,adults,metric,it is safe
+MX,low,3more,Less,adults,grad,It is very safe and secure
+Discover,vhigh,1,High,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,1,High,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,1,High,Youngs,grad,It seems to be very dangerous
+Discover,vhigh,1,High,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,1,High,seniors,metric,It seems to be very dangerous
+Discover,vhigh,1,High,seniors,grad,It seems to be very dangerous
+Discover,vhigh,1,High,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,1,High,adults,metric,It seems to be very dangerous
+Discover,vhigh,1,High,adults,grad,It seems to be very dangerous
+Discover,vhigh,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,1,Moderate,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,1,Moderate,Youngs,grad,it is not safe
+Discover,vhigh,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,1,Moderate,seniors,metric,It seems to be very dangerous
+Discover,vhigh,1,Moderate,seniors,grad,it is not safe
+Discover,vhigh,1,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,1,Moderate,adults,metric,it is not safe
+Discover,vhigh,1,Moderate,adults,grad,it is not safe
+Discover,vhigh,1,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,1,Less,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,1,Less,Youngs,grad,It seems to be very dangerous
+Discover,vhigh,1,Less,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,1,Less,seniors,metric,It seems to be very dangerous
+Discover,vhigh,1,Less,seniors,grad,it is not safe
+Discover,vhigh,1,Less,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,1,Less,adults,metric,it is not safe
+Discover,vhigh,1,Less,adults,grad,it is not safe
+Discover,vhigh,2,High,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,2,High,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,2,High,Youngs,grad,It seems to be very dangerous
+Discover,vhigh,2,High,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,2,High,seniors,metric,It seems to be very dangerous
+Discover,vhigh,2,High,seniors,grad,It seems to be very dangerous
+Discover,vhigh,2,High,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,2,High,adults,metric,It seems to be very dangerous
+Discover,vhigh,2,High,adults,grad,It seems to be very dangerous
+Discover,vhigh,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,2,Moderate,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,2,Moderate,Youngs,grad,it is not safe
+Discover,vhigh,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,2,Moderate,seniors,metric,It seems to be very dangerous
+Discover,vhigh,2,Moderate,seniors,grad,it is not safe
+Discover,vhigh,2,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,2,Moderate,adults,metric,it is not safe
+Discover,vhigh,2,Moderate,adults,grad,it is not safe
+Discover,vhigh,2,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,2,Less,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,2,Less,Youngs,grad,it is not safe
+Discover,vhigh,2,Less,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,2,Less,seniors,metric,it is not safe
+Discover,vhigh,2,Less,seniors,grad,it is not safe
+Discover,vhigh,2,Less,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,2,Less,adults,metric,it is not safe
+Discover,vhigh,2,Less,adults,grad,it is not safe
+Discover,vhigh,3,High,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,3,High,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,3,High,Youngs,grad,It seems to be very dangerous
+Discover,vhigh,3,High,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,3,High,seniors,metric,It seems to be very dangerous
+Discover,vhigh,3,High,seniors,grad,It seems to be very dangerous
+Discover,vhigh,3,High,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,3,High,adults,metric,It seems to be very dangerous
+Discover,vhigh,3,High,adults,grad,It seems to be very dangerous
+Discover,vhigh,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,3,Moderate,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,3,Moderate,Youngs,grad,it is not safe
+Discover,vhigh,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,3,Moderate,seniors,metric,it is not safe
+Discover,vhigh,3,Moderate,seniors,grad,it is not safe
+Discover,vhigh,3,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,3,Moderate,adults,metric,it is not safe
+Discover,vhigh,3,Moderate,adults,grad,it is not safe
+Discover,vhigh,3,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,3,Less,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,3,Less,Youngs,grad,it is not safe
+Discover,vhigh,3,Less,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,3,Less,seniors,metric,it is not safe
+Discover,vhigh,3,Less,seniors,grad,it is not safe
+Discover,vhigh,3,Less,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,3,Less,adults,metric,it is not safe
+Discover,vhigh,3,Less,adults,grad,it is not safe
+Discover,vhigh,3more,High,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,3more,High,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,3more,High,Youngs,grad,It seems to be very dangerous
+Discover,vhigh,3more,High,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,3more,High,seniors,metric,It seems to be very dangerous
+Discover,vhigh,3more,High,seniors,grad,It seems to be very dangerous
+Discover,vhigh,3more,High,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,3more,High,adults,metric,It seems to be very dangerous
+Discover,vhigh,3more,High,adults,grad,It seems to be very dangerous
+Discover,vhigh,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,3more,Moderate,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,3more,Moderate,Youngs,grad,it is not safe
+Discover,vhigh,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,3more,Moderate,seniors,metric,it is not safe
+Discover,vhigh,3more,Moderate,seniors,grad,it is not safe
+Discover,vhigh,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,3more,Moderate,adults,metric,it is not safe
+Discover,vhigh,3more,Moderate,adults,grad,it is not safe
+Discover,vhigh,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,vhigh,3more,Less,Youngs,metric,It seems to be very dangerous
+Discover,vhigh,3more,Less,Youngs,grad,it is not safe
+Discover,vhigh,3more,Less,seniors,illiterate,It seems to be very dangerous
+Discover,vhigh,3more,Less,seniors,metric,it is not safe
+Discover,vhigh,3more,Less,seniors,grad,it is not safe
+Discover,vhigh,3more,Less,adults,illiterate,It seems to be very dangerous
+Discover,vhigh,3more,Less,adults,metric,it is not safe
+Discover,vhigh,3more,Less,adults,grad,it is not safe
+Discover,high,1,High,Youngs,illiterate,It seems to be very dangerous
+Discover,high,1,High,Youngs,metric,It seems to be very dangerous
+Discover,high,1,High,Youngs,grad,It seems to be very dangerous
+Discover,high,1,High,seniors,illiterate,It seems to be very dangerous
+Discover,high,1,High,seniors,metric,It seems to be very dangerous
+Discover,high,1,High,seniors,grad,It seems to be very dangerous
+Discover,high,1,High,adults,illiterate,It seems to be very dangerous
+Discover,high,1,High,adults,metric,It seems to be very dangerous
+Discover,high,1,High,adults,grad,It seems to be very dangerous
+Discover,high,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,high,1,Moderate,Youngs,metric,it is not safe
+Discover,high,1,Moderate,Youngs,grad,it is not safe
+Discover,high,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,high,1,Moderate,seniors,metric,it is not safe
+Discover,high,1,Moderate,seniors,grad,it is not safe
+Discover,high,1,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,high,1,Moderate,adults,metric,it is not safe
+Discover,high,1,Moderate,adults,grad,It is very safe and secure
+Discover,high,1,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,high,1,Less,Youngs,metric,It seems to be very dangerous
+Discover,high,1,Less,Youngs,grad,It seems to be very dangerous
+Discover,high,1,Less,seniors,illiterate,It seems to be very dangerous
+Discover,high,1,Less,seniors,metric,it is not safe
+Discover,high,1,Less,seniors,grad,it is not safe
+Discover,high,1,Less,adults,illiterate,It seems to be very dangerous
+Discover,high,1,Less,adults,metric,it is not safe
+Discover,high,1,Less,adults,grad,It is very safe and secure
+Discover,high,2,High,Youngs,illiterate,It seems to be very dangerous
+Discover,high,2,High,Youngs,metric,It seems to be very dangerous
+Discover,high,2,High,Youngs,grad,It seems to be very dangerous
+Discover,high,2,High,seniors,illiterate,It seems to be very dangerous
+Discover,high,2,High,seniors,metric,It seems to be very dangerous
+Discover,high,2,High,seniors,grad,It seems to be very dangerous
+Discover,high,2,High,adults,illiterate,It seems to be very dangerous
+Discover,high,2,High,adults,metric,It seems to be very dangerous
+Discover,high,2,High,adults,grad,It seems to be very dangerous
+Discover,high,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,high,2,Moderate,Youngs,metric,it is not safe
+Discover,high,2,Moderate,Youngs,grad,it is not safe
+Discover,high,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,high,2,Moderate,seniors,metric,it is not safe
+Discover,high,2,Moderate,seniors,grad,it is not safe
+Discover,high,2,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,high,2,Moderate,adults,metric,it is not safe
+Discover,high,2,Moderate,adults,grad,It is very safe and secure
+Discover,high,2,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,high,2,Less,Youngs,metric,it is not safe
+Discover,high,2,Less,Youngs,grad,it is not safe
+Discover,high,2,Less,seniors,illiterate,It seems to be very dangerous
+Discover,high,2,Less,seniors,metric,it is not safe
+Discover,high,2,Less,seniors,grad,It is very safe and secure
+Discover,high,2,Less,adults,illiterate,It seems to be very dangerous
+Discover,high,2,Less,adults,metric,it is not safe
+Discover,high,2,Less,adults,grad,It is very safe and secure
+Discover,high,3,High,Youngs,illiterate,It seems to be very dangerous
+Discover,high,3,High,Youngs,metric,It seems to be very dangerous
+Discover,high,3,High,Youngs,grad,It seems to be very dangerous
+Discover,high,3,High,seniors,illiterate,It seems to be very dangerous
+Discover,high,3,High,seniors,metric,It seems to be very dangerous
+Discover,high,3,High,seniors,grad,It seems to be very dangerous
+Discover,high,3,High,adults,illiterate,It seems to be very dangerous
+Discover,high,3,High,adults,metric,It seems to be very dangerous
+Discover,high,3,High,adults,grad,It seems to be very dangerous
+Discover,high,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,high,3,Moderate,Youngs,metric,it is not safe
+Discover,high,3,Moderate,Youngs,grad,it is not safe
+Discover,high,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,high,3,Moderate,seniors,metric,it is not safe
+Discover,high,3,Moderate,seniors,grad,It is very safe and secure
+Discover,high,3,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,high,3,Moderate,adults,metric,it is not safe
+Discover,high,3,Moderate,adults,grad,It is very safe and secure
+Discover,high,3,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,high,3,Less,Youngs,metric,it is not safe
+Discover,high,3,Less,Youngs,grad,it is not safe
+Discover,high,3,Less,seniors,illiterate,It seems to be very dangerous
+Discover,high,3,Less,seniors,metric,it is not safe
+Discover,high,3,Less,seniors,grad,It is very safe and secure
+Discover,high,3,Less,adults,illiterate,It seems to be very dangerous
+Discover,high,3,Less,adults,metric,it is not safe
+Discover,high,3,Less,adults,grad,It is very safe and secure
+Discover,high,3more,High,Youngs,illiterate,It seems to be very dangerous
+Discover,high,3more,High,Youngs,metric,It seems to be very dangerous
+Discover,high,3more,High,Youngs,grad,It seems to be very dangerous
+Discover,high,3more,High,seniors,illiterate,It seems to be very dangerous
+Discover,high,3more,High,seniors,metric,It seems to be very dangerous
+Discover,high,3more,High,seniors,grad,It seems to be very dangerous
+Discover,high,3more,High,adults,illiterate,It seems to be very dangerous
+Discover,high,3more,High,adults,metric,It seems to be very dangerous
+Discover,high,3more,High,adults,grad,It seems to be very dangerous
+Discover,high,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,high,3more,Moderate,Youngs,metric,it is not safe
+Discover,high,3more,Moderate,Youngs,grad,it is not safe
+Discover,high,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,high,3more,Moderate,seniors,metric,it is not safe
+Discover,high,3more,Moderate,seniors,grad,It is very safe and secure
+Discover,high,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,high,3more,Moderate,adults,metric,it is not safe
+Discover,high,3more,Moderate,adults,grad,It is very safe and secure
+Discover,high,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,high,3more,Less,Youngs,metric,it is not safe
+Discover,high,3more,Less,Youngs,grad,it is not safe
+Discover,high,3more,Less,seniors,illiterate,It seems to be very dangerous
+Discover,high,3more,Less,seniors,metric,it is not safe
+Discover,high,3more,Less,seniors,grad,It is very safe and secure
+Discover,high,3more,Less,adults,illiterate,It seems to be very dangerous
+Discover,high,3more,Less,adults,metric,it is not safe
+Discover,high,3more,Less,adults,grad,It is very safe and secure
+Discover,med,1,High,Youngs,illiterate,It seems to be very dangerous
+Discover,med,1,High,Youngs,metric,It seems to be very dangerous
+Discover,med,1,High,Youngs,grad,It seems to be very dangerous
+Discover,med,1,High,seniors,illiterate,It seems to be very dangerous
+Discover,med,1,High,seniors,metric,It seems to be very dangerous
+Discover,med,1,High,seniors,grad,It seems to be very dangerous
+Discover,med,1,High,adults,illiterate,It seems to be very dangerous
+Discover,med,1,High,adults,metric,It seems to be very dangerous
+Discover,med,1,High,adults,grad,It seems to be very dangerous
+Discover,med,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,med,1,Moderate,Youngs,metric,it is not safe
+Discover,med,1,Moderate,Youngs,grad,it is safe
+Discover,med,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,med,1,Moderate,seniors,metric,it is not safe
+Discover,med,1,Moderate,seniors,grad,it is safe
+Discover,med,1,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,med,1,Moderate,adults,metric,it is safe
+Discover,med,1,Moderate,adults,grad,It is very safe and secure
+Discover,med,1,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,med,1,Less,Youngs,metric,It seems to be very dangerous
+Discover,med,1,Less,Youngs,grad,It seems to be very dangerous
+Discover,med,1,Less,seniors,illiterate,It seems to be very dangerous
+Discover,med,1,Less,seniors,metric,it is not safe
+Discover,med,1,Less,seniors,grad,it is safe
+Discover,med,1,Less,adults,illiterate,It seems to be very dangerous
+Discover,med,1,Less,adults,metric,it is safe
+Discover,med,1,Less,adults,grad,It is very safe and secure
+Discover,med,2,High,Youngs,illiterate,It seems to be very dangerous
+Discover,med,2,High,Youngs,metric,It seems to be very dangerous
+Discover,med,2,High,Youngs,grad,It seems to be very dangerous
+Discover,med,2,High,seniors,illiterate,It seems to be very dangerous
+Discover,med,2,High,seniors,metric,It seems to be very dangerous
+Discover,med,2,High,seniors,grad,It seems to be very dangerous
+Discover,med,2,High,adults,illiterate,It seems to be very dangerous
+Discover,med,2,High,adults,metric,It seems to be very dangerous
+Discover,med,2,High,adults,grad,It seems to be very dangerous
+Discover,med,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,med,2,Moderate,Youngs,metric,it is not safe
+Discover,med,2,Moderate,Youngs,grad,it is safe
+Discover,med,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,med,2,Moderate,seniors,metric,it is not safe
+Discover,med,2,Moderate,seniors,grad,it is safe
+Discover,med,2,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,med,2,Moderate,adults,metric,it is safe
+Discover,med,2,Moderate,adults,grad,It is very safe and secure
+Discover,med,2,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,med,2,Less,Youngs,metric,it is not safe
+Discover,med,2,Less,Youngs,grad,it is safe
+Discover,med,2,Less,seniors,illiterate,It seems to be very dangerous
+Discover,med,2,Less,seniors,metric,it is safe
+Discover,med,2,Less,seniors,grad,It is very safe and secure
+Discover,med,2,Less,adults,illiterate,It seems to be very dangerous
+Discover,med,2,Less,adults,metric,it is safe
+Discover,med,2,Less,adults,grad,It is very safe and secure
+Discover,med,3,High,Youngs,illiterate,It seems to be very dangerous
+Discover,med,3,High,Youngs,metric,It seems to be very dangerous
+Discover,med,3,High,Youngs,grad,It seems to be very dangerous
+Discover,med,3,High,seniors,illiterate,It seems to be very dangerous
+Discover,med,3,High,seniors,metric,It seems to be very dangerous
+Discover,med,3,High,seniors,grad,It seems to be very dangerous
+Discover,med,3,High,adults,illiterate,It seems to be very dangerous
+Discover,med,3,High,adults,metric,It seems to be very dangerous
+Discover,med,3,High,adults,grad,It seems to be very dangerous
+Discover,med,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,med,3,Moderate,Youngs,metric,it is not safe
+Discover,med,3,Moderate,Youngs,grad,it is safe
+Discover,med,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,med,3,Moderate,seniors,metric,it is safe
+Discover,med,3,Moderate,seniors,grad,It is very safe and secure
+Discover,med,3,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,med,3,Moderate,adults,metric,it is safe
+Discover,med,3,Moderate,adults,grad,It is very safe and secure
+Discover,med,3,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,med,3,Less,Youngs,metric,it is not safe
+Discover,med,3,Less,Youngs,grad,it is safe
+Discover,med,3,Less,seniors,illiterate,It seems to be very dangerous
+Discover,med,3,Less,seniors,metric,it is safe
+Discover,med,3,Less,seniors,grad,It is very safe and secure
+Discover,med,3,Less,adults,illiterate,It seems to be very dangerous
+Discover,med,3,Less,adults,metric,it is safe
+Discover,med,3,Less,adults,grad,It is very safe and secure
+Discover,med,3more,High,Youngs,illiterate,It seems to be very dangerous
+Discover,med,3more,High,Youngs,metric,It seems to be very dangerous
+Discover,med,3more,High,Youngs,grad,It seems to be very dangerous
+Discover,med,3more,High,seniors,illiterate,It seems to be very dangerous
+Discover,med,3more,High,seniors,metric,It seems to be very dangerous
+Discover,med,3more,High,seniors,grad,It seems to be very dangerous
+Discover,med,3more,High,adults,illiterate,It seems to be very dangerous
+Discover,med,3more,High,adults,metric,It seems to be very dangerous
+Discover,med,3more,High,adults,grad,It seems to be very dangerous
+Discover,med,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,med,3more,Moderate,Youngs,metric,it is not safe
+Discover,med,3more,Moderate,Youngs,grad,it is safe
+Discover,med,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,med,3more,Moderate,seniors,metric,it is safe
+Discover,med,3more,Moderate,seniors,grad,It is very safe and secure
+Discover,med,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,med,3more,Moderate,adults,metric,it is safe
+Discover,med,3more,Moderate,adults,grad,It is very safe and secure
+Discover,med,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,med,3more,Less,Youngs,metric,it is not safe
+Discover,med,3more,Less,Youngs,grad,it is safe
+Discover,med,3more,Less,seniors,illiterate,It seems to be very dangerous
+Discover,med,3more,Less,seniors,metric,it is safe
+Discover,med,3more,Less,seniors,grad,It is very safe and secure
+Discover,med,3more,Less,adults,illiterate,It seems to be very dangerous
+Discover,med,3more,Less,adults,metric,it is safe
+Discover,med,3more,Less,adults,grad,It is very safe and secure
+Discover,low,1,High,Youngs,illiterate,It seems to be very dangerous
+Discover,low,1,High,Youngs,metric,It seems to be very dangerous
+Discover,low,1,High,Youngs,grad,It seems to be very dangerous
+Discover,low,1,High,seniors,illiterate,It seems to be very dangerous
+Discover,low,1,High,seniors,metric,It seems to be very dangerous
+Discover,low,1,High,seniors,grad,It seems to be very dangerous
+Discover,low,1,High,adults,illiterate,It seems to be very dangerous
+Discover,low,1,High,adults,metric,It seems to be very dangerous
+Discover,low,1,High,adults,grad,It seems to be very dangerous
+Discover,low,1,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,low,1,Moderate,Youngs,metric,it is not safe
+Discover,low,1,Moderate,Youngs,grad,it is safe
+Discover,low,1,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,low,1,Moderate,seniors,metric,it is not safe
+Discover,low,1,Moderate,seniors,grad,it is safe
+Discover,low,1,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,low,1,Moderate,adults,metric,it is safe
+Discover,low,1,Moderate,adults,grad,It is very safe and secure
+Discover,low,1,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,low,1,Less,Youngs,metric,It seems to be very dangerous
+Discover,low,1,Less,Youngs,grad,It seems to be very dangerous
+Discover,low,1,Less,seniors,illiterate,It seems to be very dangerous
+Discover,low,1,Less,seniors,metric,it is not safe
+Discover,low,1,Less,seniors,grad,it is safe
+Discover,low,1,Less,adults,illiterate,It seems to be very dangerous
+Discover,low,1,Less,adults,metric,it is safe
+Discover,low,1,Less,adults,grad,It is very safe and secure
+Discover,low,2,High,Youngs,illiterate,It seems to be very dangerous
+Discover,low,2,High,Youngs,metric,It seems to be very dangerous
+Discover,low,2,High,Youngs,grad,It seems to be very dangerous
+Discover,low,2,High,seniors,illiterate,It seems to be very dangerous
+Discover,low,2,High,seniors,metric,It seems to be very dangerous
+Discover,low,2,High,seniors,grad,It seems to be very dangerous
+Discover,low,2,High,adults,illiterate,It seems to be very dangerous
+Discover,low,2,High,adults,metric,It seems to be very dangerous
+Discover,low,2,High,adults,grad,It seems to be very dangerous
+Discover,low,2,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,low,2,Moderate,Youngs,metric,it is not safe
+Discover,low,2,Moderate,Youngs,grad,it is safe
+Discover,low,2,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,low,2,Moderate,seniors,metric,it is not safe
+Discover,low,2,Moderate,seniors,grad,it is safe
+Discover,low,2,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,low,2,Moderate,adults,metric,it is safe
+Discover,low,2,Moderate,adults,grad,It is very safe and secure
+Discover,low,2,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,low,2,Less,Youngs,metric,it is not safe
+Discover,low,2,Less,Youngs,grad,it is safe
+Discover,low,2,Less,seniors,illiterate,It seems to be very dangerous
+Discover,low,2,Less,seniors,metric,it is safe
+Discover,low,2,Less,seniors,grad,It is very safe and secure
+Discover,low,2,Less,adults,illiterate,It seems to be very dangerous
+Discover,low,2,Less,adults,metric,it is safe
+Discover,low,2,Less,adults,grad,It is very safe and secure
+Discover,low,3,High,Youngs,illiterate,It seems to be very dangerous
+Discover,low,3,High,Youngs,metric,It seems to be very dangerous
+Discover,low,3,High,Youngs,grad,It seems to be very dangerous
+Discover,low,3,High,seniors,illiterate,It seems to be very dangerous
+Discover,low,3,High,seniors,metric,It seems to be very dangerous
+Discover,low,3,High,seniors,grad,It seems to be very dangerous
+Discover,low,3,High,adults,illiterate,It seems to be very dangerous
+Discover,low,3,High,adults,metric,It seems to be very dangerous
+Discover,low,3,High,adults,grad,It seems to be very dangerous
+Discover,low,3,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,low,3,Moderate,Youngs,metric,it is not safe
+Discover,low,3,Moderate,Youngs,grad,it is safe
+Discover,low,3,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,low,3,Moderate,seniors,metric,it is safe
+Discover,low,3,Moderate,seniors,grad,It is very safe and secure
+Discover,low,3,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,low,3,Moderate,adults,metric,it is safe
+Discover,low,3,Moderate,adults,grad,It is very safe and secure
+Discover,low,3,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,low,3,Less,Youngs,metric,it is not safe
+Discover,low,3,Less,Youngs,grad,it is safe
+Discover,low,3,Less,seniors,illiterate,It seems to be very dangerous
+Discover,low,3,Less,seniors,metric,it is safe
+Discover,low,3,Less,seniors,grad,It is very safe and secure
+Discover,low,3,Less,adults,illiterate,It seems to be very dangerous
+Discover,low,3,Less,adults,metric,it is safe
+Discover,low,3,Less,adults,grad,It is very safe and secure
+Discover,low,3more,High,Youngs,illiterate,It seems to be very dangerous
+Discover,low,3more,High,Youngs,metric,It seems to be very dangerous
+Discover,low,3more,High,Youngs,grad,It seems to be very dangerous
+Discover,low,3more,High,seniors,illiterate,It seems to be very dangerous
+Discover,low,3more,High,seniors,metric,It seems to be very dangerous
+Discover,low,3more,High,seniors,grad,It seems to be very dangerous
+Discover,low,3more,High,adults,illiterate,It seems to be very dangerous
+Discover,low,3more,High,adults,metric,It seems to be very dangerous
+Discover,low,3more,High,adults,grad,It seems to be very dangerous
+Discover,low,3more,Moderate,Youngs,illiterate,It seems to be very dangerous
+Discover,low,3more,Moderate,Youngs,metric,it is not safe
+Discover,low,3more,Moderate,Youngs,grad,it is safe
+Discover,low,3more,Moderate,seniors,illiterate,It seems to be very dangerous
+Discover,low,3more,Moderate,seniors,metric,it is safe
+Discover,low,3more,Moderate,seniors,grad,It is very safe and secure
+Discover,low,3more,Moderate,adults,illiterate,It seems to be very dangerous
+Discover,low,3more,Moderate,adults,metric,it is safe
+Discover,low,3more,Moderate,adults,grad,It is very safe and secure
+Discover,low,3more,Less,Youngs,illiterate,It seems to be very dangerous
+Discover,low,3more,Less,Youngs,metric,it is not safe
+Discover,low,3more,Less,Youngs,grad,it is safe
+Discover,low,3more,Less,seniors,illiterate,It seems to be very dangerous
+Discover,low,3more,Less,seniors,metric,it is safe
+Discover,low,3more,Less,seniors,grad,It is very safe and secure
+Discover,low,3more,Less,adults,illiterate,It seems to be very dangerous
+Discover,low,3more,Less,adults,metric,it is safe
+Discover,low,3more,Less,adults,grad,It is very safe and secure

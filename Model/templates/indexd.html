@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="Samaksh">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link href="{{ url_for('static', filename='css/bootstrap.min.css')}}" type="text/css" rel="stylesheet">
+<title>Credit Card Fraud Detection</title>
+</head>
+
+
+
+<body class="bg-light">
+  <center>
+    <div  style="margin: 0px; background-color: red;"><h1>{{result}}</h1></div>
+    </center>
+ <div class="container">
+  <div class="py-5 text-center">
+    <img class="d-block mx-auto mb-4" src="{{ url_for('static', filename='css/logo.png')}}" alt="" width="90" height="90">
+    <h2>Credit Card Fraud Detection</h2>
+  </div>
+ </div>
+
+
+ 
+    	<form action="/" method="post">
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+     <form>
+     <div class="form-group">
+    
+  <div class="row">
+          <div class="col-md-5 mb-3">
+            <label for="country">Credit Card Company:</label>
+            <select name="card_company" class="custom-select d-block w-100" id="country" required>
+              <option>Choose..</option>
+              <option value="Visa">Visa</option>
+							<option value='Mastercard'>Mastercard</option>	
+							<option value='MX'>MX</option>
+							<option value="Discover">Discover</option>
+            </select>
+            <div class="invalid-feedback">
+              Please select a valid country.
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <label for="state">Transaction Frequency:</label>
+            <select name="trans_freq" class="custom-select d-block w-100" id="state" required>
+              <option>Choose..</option>
+              <option value="vhigh">Very High</option>
+							<option value='high'>High</option>	
+							<option value='med'>Medium</option>
+							<option value="low">Low</option>
+            </select>
+            <div class="invalid-feedback">
+              Please provide a valid state.
+            </div>
+          </div>
+         </div>
+         
+  <div class="row">
+          <div class="col-md-5 mb-3">
+            <label for="country">Number of persons accessible to Credit Card:</label>
+            <select name="persons" class="custom-select d-block w-100" id="country" required>
+              <option>Choose..</option>
+              <option value='1'>1</option>
+							<option value='2'>2</option>
+							<option value='3'>3</option>
+							<option value='3more'>3+</option>
+
+            </select>
+            <div class="invalid-feedback">
+              Please select a valid country.
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <label for="state">Amount to be transacted:</label>
+            <select name="amount" class="custom-select d-block w-100" id="state" required>
+              <option>Choose..</option>
+             <option value='Less'>Less</option>
+							<option value="Moderate">Moderate</option>
+							<option value='High'>High</option>
+            </select>
+            <div class="invalid-feedback">
+              Please provide a valid state.
+            </div>
+          </div>
+         
+        </div>
+         
+         
+           <div class="row">
+          <div class="col-md-5 mb-3">
+            <label for="country">Age:</label>
+            <select name="age" class="custom-select d-block w-100" id="country" required>
+              <option>Choose..</option>
+             <option value='seniors'>Senior</option>
+							<option value="adults">Adult</option>
+							<option value='Youngs'>Young</option>
+            </select>
+            <div class="invalid-feedback">
+              Please select a valid country.
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <label for="state">Education Qualifications:</label>
+            <select name="education" class="custom-select d-block w-100" id="state" required>
+             <option>Choose..</option>
+             <option value='illiterate'>Illiterate</option>
+							<option value="metric">Metric Pass</option>
+              <option value="grad">Graduated</option>
+							
+            </select>
+            <div class="invalid-feedback">
+              Please provide a valid state.
+            </div>
+          </div>
+         
+        </div>
+<hr class="mb-4">
+  <button  type="submit" class="btn btn-primary btn-lg btn-block">Submit</button>
+         </div>
+  </form>
+    </div>
+  </div>
+  <footer class="my-5 pt-5 text-muted text-center text-small">
+    <p class="mb-1">&copy; Major Project SSBT COET</p>
+ 
+  </footer>
+  </div>
+    </form>
+   
+
+    
+  
+</body>
+</html>
